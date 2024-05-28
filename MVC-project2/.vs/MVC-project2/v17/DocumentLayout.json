@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\MVC-project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{999BAF18-9005-4894-BBE9-F0F23D97C85E}|MVC-project2\\MVC-project2.csproj|c:\\users\\hp\\desktop\\mvc-project2\\mvc-project2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{999BAF18-9005-4894-BBE9-F0F23D97C85E}|MVC-project2\\MVC-project2.csproj|solutionrelative:mvc-project2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{999BAF18-9005-4894-BBE9-F0F23D97C85E}|MVC-project2\\MVC-project2.csproj|c:\\users\\hp\\desktop\\mvc-project2\\mvc-project2\\mvc-project2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{999BAF18-9005-4894-BBE9-F0F23D97C85E}|MVC-project2\\MVC-project2.csproj|solutionrelative:mvc-project2\\mvc-project2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{999BAF18-9005-4894-BBE9-F0F23D97C85E}|MVC-project2\\MVC-project2.csproj|c:\\users\\hp\\desktop\\mvc-project2\\mvc-project2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{999BAF18-9005-4894-BBE9-F0F23D97C85E}|MVC-project2\\MVC-project2.csproj|solutionrelative:mvc-project2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999BAF18-9005-4894-BBE9-F0F23D97C85E}|MVC-project2\\MVC-project2.csproj|c:\\users\\hp\\desktop\\mvc-project2\\mvc-project2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999BAF18-9005-4894-BBE9-F0F23D97C85E}|MVC-project2\\MVC-project2.csproj|solutionrelative:mvc-project2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{999BAF18-9005-4894-BBE9-F0F23D97C85E}|MVC-project2\\MVC-project2.csproj|c:\\users\\hp\\desktop\\mvc-project2\\mvc-project2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -41,12 +41,8 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "MVC-project2\\ScaffoldingReadMe.txt",
@@ -67,8 +63,7 @@
               "RelativeToolTip": "MVC-project2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T14:11:03.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T14:11:03.133Z"
             },
             {
               "$type": "Document",
@@ -80,8 +75,7 @@
               "RelativeToolTip": "MVC-project2\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T13:59:46.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T13:59:46.912Z"
             },
             {
               "$type": "Document",
@@ -93,8 +87,7 @@
               "RelativeToolTip": "MVC-project2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T13:59:30.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T13:59:30.162Z"
             },
             {
               "$type": "Document",
@@ -106,12 +99,11 @@
               "RelativeToolTip": "MVC-project2\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T13:58:55.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T13:58:55.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVC-project2\\Controllers\\HomeController.cs",
@@ -124,16 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MVC-project2",
+              "DocumentIndex": 0,
+              "Title": "MVC-project2.csproj",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\MVC-project2.csproj",
               "RelativeDocumentMoniker": "MVC-project2\\MVC-project2.csproj",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC-project2\\MVC-project2\\MVC-project2.csproj",
               "RelativeToolTip": "MVC-project2\\MVC-project2.csproj",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-17T13:58:13.901Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
